@@ -92,8 +92,11 @@
 [Zeit Online](https://www.zeit.de)
 
 ### Sites with limited number of free articles
-The free article limit can normally be bypassed by removing cookies for the site. 
-Install [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce). When coming across a paywall click the cookie icon to remove the cookies then refresh the page.
+The free article limit can normally be bypassed by removing cookies for the site.
+
+Install [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce).
+
+When coming across a paywall click the cookie icon to remove the cookies then refresh the page.
 
 ### New site requests
 Only large or major sites will be considered.
