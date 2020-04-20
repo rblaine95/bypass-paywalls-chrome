@@ -8,7 +8,7 @@ const defaultSites = {
     'Bloomberg': 'bloomberg.com',
     'Bloomberg Quint': 'bloombergquint.com',
     'Business Insider': 'businessinsider.com',
-    'Caixin': 'caixinglobal.com',
+    'faz': 'faz.net',
     'Central Western Daily': 'centralwesterndaily.com.au', // articles blanked
     'Chemical & Engineering News': 'cen.acs.org', // '2/3 free articles' banner, keeps asking about cookies
     'Chicago Tribune': 'chicagotribune.com',
