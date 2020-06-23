@@ -79,6 +79,12 @@ if (matchDomain('rep.repubblica.it')) {
     const closeButton = document.querySelector('.close-btn');
     if (closeButton) { closeButton.click(); }
   }
+  document.addEventListener('DOMContentLoaded', () => {
+    const wsjLogin = document.querySelector('.wsj-snippet-login, .wsjpro-label');
+    if (wsjLogin) {
+      window.location.href = window.location.href.replace('wsj.com', 'wsj.com/amp');
+    }
+  });
 } else if (matchDomain('sloanreview.mit.edu')) {
   document.querySelector('#cboxClose').click();
 } else if (matchDomain('mexiconewsdaily.com')) {
